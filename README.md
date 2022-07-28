@@ -1,6 +1,7 @@
 Hi 👋 I'm Ofek Mini! 
 
 I'm a passionate Full Stack developer with BA In Business Administration with specialization in Information Systems. :books:
+
 Motivation and a willingness to learn and grow are what drive me. :muscle:
 
 My top skills are-  
